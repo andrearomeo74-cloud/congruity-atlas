@@ -14,6 +14,46 @@ Think of this repository as:
 
 ---
 
+CONGRUITY ATLAS (canonical → constraints → applications)
+
+┌──────────────────────────────────────────────────────────┐
+│ 0) CANONICAL CORE                                         │
+│    congruity-canonical                                    │
+│    - Canonical Law: C = V / (E + I + S)                   │
+│    - Axioms, admissibility, invariants, boundaries        │
+└───────────────┬──────────────────────────────────────────┘
+                │
+┌───────────────▼──────────────────────────────────────────┐
+│ 1) CONSTRAINT / SAFETY LAYER                              │
+│    bounded-intelligence                                   │
+│    - Limits, proportionality guardrails, non-operational  │
+│    Congruity-3.0-Lite                                     │
+│    - Public minimal scaffold (no thresholds/criteria)     │
+└───────────────┬──────────────────────────────────────────┘
+                │
+┌───────────────▼──────────────────────────────────────────┐
+│ 2) APPLICATION LAYER (regime diagnostics, conceptual)      │
+│                                                          │
+│  Biology / Medicine                                       │
+│   • cellular-aging-congruity-7                            │
+│   • congruity-7-systemic-disease-models                   │
+│                                                          │
+│  Physics / Cosmology                                      │
+│   • congruity-dark-matter-vs-mond                         │
+│   • gravity-after-gr                                      │
+│   • measurement-problem-boundary                          │
+│   • quantum-classical-boundary                            │
+│   • cosmological-constant-problem                         │
+│   • arrow-of-time-boundary                                │
+│                                                          │
+│  Cognition / Agency                                       │
+│   • consciousness-boundary                                │
+│   • free-will-boundary                                    │
+└──────────────────────────────────────────────────────────┘
+
+Note: All application repositories inherit scope & limitations from the
+Canonical + Constraint layers (conceptual, non-operational, no thresholds).
+
 ## Canonical Law (Root)
 
 All repositories ultimately derive from the canonical Congruity formulation:
