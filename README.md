@@ -1,5 +1,25 @@
 # Congruity Atlas
 
+## Start here
+
+If you are new to the Congruity framework, follow this minimal reading path:
+
+1. **congruity-canonical**  
+   The canonical law of Congruity.  
+   Defines the admissibility principle, axioms, invariants, boundaries, and closure.  
+   This is the foundational reference.
+
+2. **bounded-intelligence**  
+   Explores proportionality under finite resources, scaling limits, and regime transitions.  
+   Introduces constraint-based reasoning without operational rules.
+
+3. **Congruity Atlas (this repository)**  
+   Provides a cartographic overview of how Congruity is instantiated across domains,  
+   regimes, and conceptual boundaries.
+
+All other repositories are domain-specific interpretations or applications  
+and must be read downstream of the canonical and constraint layers.
+
 ## Purpose
 
 This repository is a **conceptual atlas** of the Congruity framework.
